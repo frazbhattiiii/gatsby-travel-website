@@ -1,0 +1,27 @@
+[
+  {
+    "img": "../assets/images/Travel.jpg",
+    "alt": "Travel Image",
+    "name": "Your Favorite Destination",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Travel1.jpg",
+    "alt": "Travel Image",
+    "name": "Your Favorite Destination",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Travel2.jpg",
+    "alt": "Travel Image",
+    "name": "Your Favorite Destination",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/Travel3.jpg",
+    "alt": "Travel Image",
+    "name": "Your Favorite Destination",
+    "button": "View Destination"
+  }
+
+]

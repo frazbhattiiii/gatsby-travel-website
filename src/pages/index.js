@@ -3,6 +3,7 @@ import Layout     from "../components/layout"
 import Seo        from "../components/seo"
 import Header     from "../components/Header";
 import Hero       from "../components/Hero";
+import Trips      from "../components/Trips";
 
 
 
@@ -12,6 +13,7 @@ const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
       <Hero/>
+      <Trips/>
   </Layout>
 )
 
